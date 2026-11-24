@@ -1,0 +1,10 @@
+{
+  "id": "matn.theme.solarized_light",
+  "name": "Solarized Light Theme",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Precision color scheme designed by Ethan Schoonover for terminal use",
+  "category": "themes",
+  "type": "theme",
+  "repository": "https://github.com/matn-extensions/theme-solarized-light"
+}

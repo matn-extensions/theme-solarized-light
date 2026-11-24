@@ -1,0 +1,16 @@
+{
+  "name": "Solarized Light",
+  "type": "light",
+  "author": "Matn Team",
+  "version": "1.0.0",
+  "colors": {
+    "bg": "#FDF6E3",
+    "barBg": "#EEE8D5",
+    "text": "#657B83",
+    "muted": "#93A1A1",
+    "accent": "#268BD2",
+    "activeLine": "#EEE8D5",
+    "cursor": "#586E75",
+    "border": "#D3CEBD"
+  }
+}
